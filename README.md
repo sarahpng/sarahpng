@@ -10,10 +10,11 @@
 </h1>
 </div>
       
+[![An image of @sarahpng's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sarahpng)](https://holopin.io/@sarahpng)
+
 ### :woman_technologist: About Me :
 I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-[![An image of @sarahpng's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sarahpng)](https://holopin.io/@sarahpng)
 
 :telescope: I’m contributing to frontend and backend for building cross-platform applications.
 
