@@ -58,5 +58,9 @@ I am a **Flutter Developer** with over a year of professional experience buildin
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
+<br/>
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=sarahpng&label=Profile%20Views&color=0077B5&style=flat-square" alt="Profile Views" />
+</div>
 
 ---
