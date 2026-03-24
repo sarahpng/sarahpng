@@ -1,7 +1,11 @@
 # Hey there, I'm Sarah! 👋
 
 <div align="center">
-  <img src="https://github-readme-terminal.vercel.app/api?user=sarahpng&name=Sarah%20Waseem&title=Intermediate%20Flutter%20Engineer&location=Lahore,%20PK&theme=dark&shell=zsh&commands=fetch%20skills,list%20architecture,get%20current_focus&font=FiraCode" alt="Sarah's Terminal" />
+
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+
+  <p><b>Flutter Engineer</b></p>
+
 </div>
 
 ### 👩‍💻 About Me
