@@ -1,39 +1,62 @@
-<div id="header" align="center">
+# Hey there, I'm Sarah! 👋
+
+<div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/sarah-waseem/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</div>
-<h1>
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-</div>
-      
-[![An image of @sarahpng's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sarahpng)](https://holopin.io/@sarahpng)
-
-### :woman_technologist: About Me :
-I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-
-:telescope: I’m contributing to frontend and backend for building cross-platform applications.
-
-:seedling: Exploring Provider and Bloc.
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" **alt="Github" width="40" height="40"/>
+  <p><b>Flutter Engineer</b></p>
 </div>
 
-### :fire: My Stats :
+### 👩‍💻 About Me
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sarahpng&theme=github-dark-blue&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+I am a **Flutter Developer** with over a year of professional experience building robust, scalable cross-platform applications. I specialize in creating seamless user experiences backed by clean, maintainable architecture. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahpng&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+- 🚀 **Architecture:** Deeply passionate about **Clean Architecture** and **MVVM**.
+- 🛠️ **State Management:** Expert in **Bloc/Cubit** for complex logic and **Provider** for UI state.
+- ☁️ **Backend:** Proficient in **Firebase** and **Supabase** for real-time data and authentication.
 
+---
+
+### 🛠️ Languages and Tools
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  
+  <br/>
+
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mason-000000?style=for-the-badge&logo=google-cloud&logoColor=white" /> </div>
+
+---
+
+### 🔥 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarahpng&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="Sarah's GitHub Stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahpng&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" />
+  
+</div>
+
+---
+
+### 🤝 Let's Connect!
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sarah-waseem/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sarahwaseem21@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+---
