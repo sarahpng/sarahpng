@@ -16,6 +16,9 @@ I am a **Flutter Developer** with over a year of professional experience buildin
 
 ---
 
+### Goals I want to achieve in the near future
+- Become a Flutter GDE
+
 ### 🛠️ Languages and Tools
 
 <div align="left">
