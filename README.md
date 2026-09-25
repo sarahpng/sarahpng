@@ -22,14 +22,12 @@ I am a **Flutter Developer** with over a year of professional experience buildin
 ### 🛠️ Languages and Tools
 
 <div align="left">
-  <!-- Framework & Languages -->
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   
   <br/>
 
-  <!-- Backend & Infrastructure -->
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -37,14 +35,12 @@ I am a **Flutter Developer** with over a year of professional experience buildin
 
   <br/>
 
-  <!-- Monetization & Stores -->
   <img src="https://img.shields.io/badge/RevenueCat-ff4b4b?style=for-the-badge&logo=revenuecat&logoColor=white" />
   <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Play-410099?style=for-the-badge&logo=google-play&logoColor=white" />
 
   <br/>
 
-  <!-- Dev Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Mason-000000?style=for-the-badge&logo=google-cloud&logoColor=white" /> 
@@ -52,14 +48,18 @@ I am a **Flutter Developer** with over a year of professional experience buildin
 
 ---
 
-### 🔥 GitHub Stats
+### 🔥 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarahpng&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="Sarah's GitHub Stats" />
+  <img src="https://gh-profile-stats.zli39uclan.workers.dev/activity?username=sarahpng&accent=2ea44f&cell=sharp&hide_border=true" alt="Sarah's GitHub Activity" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarahpng&theme=vision-friendly-dark&hide_border=true" alt="Sarah's GitHub Streak" />
+  <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahpng&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sarahpng&show_icons=true&theme=github_dark&hide_border=true" alt="Sarah's GitHub Stats" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarahpng&theme=github_dark&hide_border=true" alt="Sarah's GitHub Streak" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahpng&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
@@ -76,5 +76,5 @@ I am a **Flutter Developer** with over a year of professional experience buildin
 </p>
 <br/>
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=sarahpng&label=Profile%20Views&color=0077B5&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sarahpng&label=Profile%20Views&color=2ea44f&style=flat-square" alt="Profile Views" />
 </div>
